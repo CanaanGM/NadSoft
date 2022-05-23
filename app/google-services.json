@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239750580056",
+    "project_id": "nadsoft-6a2b2",
+    "storage_bucket": "nadsoft-6a2b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239750580056:android:1d42615255571c8b41072d",
+        "android_client_info": {
+          "package_name": "com.aligmohammad.nadsoftmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239750580056-aotsrrs61m08j6f4lbnrn721njkqh2eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfDRW1ziO169QLLbQFzH7kRMbm-qrPDaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239750580056-aotsrrs61m08j6f4lbnrn721njkqh2eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
